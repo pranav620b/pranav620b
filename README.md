@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pranav620b
 - 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning Artificial Intelligence and Data Science.
-- 💞️ I’m looking to collaborate on Automation.
+- 🌱 Currently learning Artificial Intelligence and Data Science.
 - 📫 How to reach me ...
 
 <!---
