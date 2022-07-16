@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @pranav620b
+- 👋 Hi, I’m Pranav belhekar
 - 👀 I’m interested in Artificial Intelligence.
-- 🌱 Currently learning Artificial Intelligence and Data Science.
-- 📫 How to reach me ...
+- 🌱 Currently learning Machine Learning.
 
 <!---
 pranav620b/pranav620b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
